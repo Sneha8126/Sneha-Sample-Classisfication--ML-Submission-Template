@@ -25,20 +25,11 @@
 
 <br/>
 
-[🌐 Live Demo](https://hr-insight-ai-two.vercel.app/) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend]([https://github.com/Sneha8126/hr-insight-frontend]) • [⚙️ Backend](https://github.com/Sneha8126/hr-insight-backend) 
+[🌐 Live Demo](https://hr-insight-ai-two.vercel.app/) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend](https://github.com/Sneha8126/hr-insight-frontend) • [⚙️ Backend](https://github.com/Sneha8126/hr-insight-backend) 
 
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://via.placeholder.com/1200x400/6366F1/FFFFFF?text=Employee+Attrition+Prediction+System" alt="Project Banner" width="100%"/>
-</p>
-
-<div align="center">
-  <sub>💡 Replace the banner above with your own project banner (recommended size: 1200×400)</sub>
-</div>
-
 ---
 
 ## 📚 Table of Contents
