@@ -835,7 +835,7 @@ flowchart TB
 | 🌐 **Live Website** | [https://YOUR-LIVE-LINK](https://hr-insight-ai-two.vercel.app/) |
 | 💻 **Frontend Repository** | [https://YOUR-FRONTEND-REPOSITORY](https://github.com/Sneha8126/hr-insight-frontend) |
 | ⚙️ **Backend Repository** | [https://YOUR-BACKEND-REPOSITORY](https://github.com/Sneha8126/hr-insight-backend) |
-| 📂 **ML Notebook** | [https://YOUR-NOTEBOOK](https://YOUR-NOTEBOOK) |
+| 📂 **ML Notebook** | [https://YOUR-NOTEBOOK](https://colab.research.google.com/drive/1duxii7OYk2KtygHFxAhjOkR6zYFCLkVh?usp=sharing) |
 
 </div>
 
