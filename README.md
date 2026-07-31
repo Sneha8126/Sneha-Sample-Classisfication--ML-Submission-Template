@@ -534,8 +534,7 @@ employee-attrition-prediction/
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone (https://github.com/Sneha8126/Sneha-Sample-Classisfication--ML-Submission-Template).git
 ```
 
 ### 🐍 Set Up the ML / Notebook Environment
@@ -837,7 +836,6 @@ flowchart TB
 | 💻 **Frontend Repository** | [https://YOUR-FRONTEND-REPOSITORY](https://YOUR-FRONTEND-REPOSITORY) |
 | ⚙️ **Backend Repository** | [https://YOUR-BACKEND-REPOSITORY](https://YOUR-BACKEND-REPOSITORY) |
 | 📂 **ML Notebook** | [https://YOUR-NOTEBOOK](https://YOUR-NOTEBOOK) |
-| 📹 **Demo Video** | [https://YOUR-DEMO-VIDEO](https://YOUR-DEMO-VIDEO) |
 
 </div>
 
