@@ -25,7 +25,7 @@
 
 <br/>
 
-[🌐 Live Demo](https://YOUR-LIVE-LINK) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend]([https://github.com/Sneha8126/hr-insight-frontend]) • [⚙️ Backend](https://github.com/Sneha8126/hr-insight-backend) 
+[🌐 Live Demo](https://hr-insight-ai-two.vercel.app/) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend]([https://github.com/Sneha8126/hr-insight-frontend]) • [⚙️ Backend](https://github.com/Sneha8126/hr-insight-backend) 
 
 </div>
 
@@ -64,17 +64,15 @@
 16. [📁 Folder Structure](#-folder-structure)
 17. [⚙️ Installation Guide](#️-installation-guide)
 18. [🚀 Usage Instructions](#-usage-instructions)
-19. [🖥️ Backend Setup](#️-backend-setup)
-20. [🎨 Frontend Setup](#-frontend-setup)
-21. [🔌 API Endpoints](#-api-endpoints)
-22. [🌐 Website Overview](#-website-overview)
-23. [🖼️ Screenshots](#️-screenshots)
-24. [🧰 Tech Stack](#-tech-stack)
-25. [🔗 Project Links](#-project-links)
-26. [🔭 Future Enhancements](#-future-enhancements)
-27. [🤝 Contributing](#-contributing)
-28. [📜 License](#-license)
-29. [👩‍💻 Author](#-author)
+19. [🔌 API Endpoints](#-api-endpoints)
+20. [🌐 Website Overview](#-website-overview)
+21. [🖼️ Screenshots](#️-screenshots)
+22. [🧰 Tech Stack](#-tech-stack)
+23. [🔗 Project Links](#-project-links)
+24. [🔭 Future Enhancements](#-future-enhancements)
+25. [🤝 Contributing](#-contributing)
+26. [📜 License](#-license)
+27. [👩‍💻 Author](#-author)
 
 </details>
 
