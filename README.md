@@ -832,9 +832,9 @@ flowchart TB
 
 | Resource | Link |
 |---|---|
-| 🌐 **Live Website** | [https://YOUR-LIVE-LINK](https://YOUR-LIVE-LINK) |
-| 💻 **Frontend Repository** | [https://YOUR-FRONTEND-REPOSITORY](https://YOUR-FRONTEND-REPOSITORY) |
-| ⚙️ **Backend Repository** | [https://YOUR-BACKEND-REPOSITORY](https://YOUR-BACKEND-REPOSITORY) |
+| 🌐 **Live Website** | [https://YOUR-LIVE-LINK](https://hr-insight-ai-two.vercel.app/) |
+| 💻 **Frontend Repository** | [https://YOUR-FRONTEND-REPOSITORY](https://github.com/Sneha8126/hr-insight-frontend) |
+| ⚙️ **Backend Repository** | [https://YOUR-BACKEND-REPOSITORY](https://github.com/Sneha8126/hr-insight-backend) |
 | 📂 **ML Notebook** | [https://YOUR-NOTEBOOK](https://YOUR-NOTEBOOK) |
 
 </div>
