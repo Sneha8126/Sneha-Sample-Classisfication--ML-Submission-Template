@@ -13,12 +13,6 @@
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPO?style=for-the-badge&color=gold)](https://github.com/YOUR-USERNAME/YOUR-REPO/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR-USERNAME/YOUR-REPO?style=for-the-badge&color=blue)](https://github.com/YOUR-USERNAME/YOUR-REPO/network)
-[![Issues](https://img.shields.io/github/issues/YOUR-USERNAME/YOUR-REPO?style=for-the-badge&color=red)](https://github.com/YOUR-USERNAME/YOUR-REPO/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-
 <br/>
 
 ### 🎯 Predicting whether an employee will **Stay** or **Leave** — before it happens.
