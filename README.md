@@ -12,7 +12,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-
 <br/>
 
 ### 🎯 Predicting whether an employee will **Stay** or **Leave** — before it happens.
@@ -24,7 +23,6 @@
 </div>
 
 <br/>
----
 
 ## 📚 Table of Contents
 
