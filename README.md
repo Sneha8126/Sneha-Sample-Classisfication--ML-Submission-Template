@@ -49,13 +49,11 @@
 18. [🚀 Usage Instructions](#-usage-instructions)
 19. [🔌 API Endpoints](#-api-endpoints)
 20. [🌐 Website Overview](#-website-overview)
-21. [🖼️ Screenshots](#️-screenshots)
-22. [🧰 Tech Stack](#-tech-stack)
-23. [🔗 Project Links](#-project-links)
-24. [🔭 Future Enhancements](#-future-enhancements)
-25. [🤝 Contributing](#-contributing)
-26. [📜 License](#-license)
-27. [👩‍💻 Author](#-author)
+21. [🧰 Tech Stack](#-tech-stack)
+22. [🔗 Project Links](#-project-links)
+23. [🔭 Future Enhancements](#-future-enhancements)
+24. [🤝 Contributing](#-contributing)
+25. [👩‍💻 Author](#-author)
 
 </details>
 
@@ -775,37 +773,6 @@ flowchart TB
     style Frontend fill:#ECFDF5,stroke:#10B981
     style Infra fill:#FDF2F8,stroke:#EC4899
 ```
-
----
-
-## 🖼️ Screenshots
-
-> [!NOTE]
-> Add your actual screenshots to `assets/screenshots/` and update the image paths below.
-
-<table>
-<tr>
-<td align="center"><b>🏠 Home Page</b><br/><img src="assets/screenshots/home.png" width="100%"/></td>
-<td align="center"><b>📊 Dashboard</b><br/><img src="assets/screenshots/dashboard.png" width="100%"/></td>
-</tr>
-<tr>
-<td align="center"><b>📝 Prediction Page</b><br/><img src="assets/screenshots/predict.png" width="100%"/></td>
-<td align="center"><b>✅ Result Page</b><br/><img src="assets/screenshots/result.png" width="100%"/></td>
-</tr>
-<tr>
-<td align="center"><b>📈 Model Performance</b><br/><img src="assets/screenshots/performance.png" width="100%"/></td>
-<td align="center"><b>🧮 Confusion Matrix</b><br/><img src="assets/screenshots/confusion_matrix.png" width="100%"/></td>
-</tr>
-<tr>
-<td align="center"><b>📉 ROC Curve</b><br/><img src="assets/screenshots/roc_curve.png" width="100%"/></td>
-<td align="center"><b>🌟 Feature Importance</b><br/><img src="assets/screenshots/feature_importance.png" width="100%"/></td>
-</tr>
-<tr>
-<td align="center"><b>📊 EDA Visualizations</b><br/><img src="assets/screenshots/eda.png" width="100%"/></td>
-<td align="center"><b>🏗️ Architecture Diagram</b><br/><img src="assets/screenshots/architecture.png" width="100%"/></td>
-</tr>
-</table>
-
 ---
 
 ## 🧰 Tech Stack
@@ -832,10 +799,10 @@ flowchart TB
 
 | Resource | Link |
 |---|---|
-| 🌐 **Live Website** | [https://YOUR-LIVE-LINK](https://hr-insight-ai-two.vercel.app/) |
-| 💻 **Frontend Repository** | [https://YOUR-FRONTEND-REPOSITORY](https://github.com/Sneha8126/hr-insight-frontend) |
-| ⚙️ **Backend Repository** | [https://YOUR-BACKEND-REPOSITORY](https://github.com/Sneha8126/hr-insight-backend) |
-| 📂 **ML Notebook** | [https://YOUR-NOTEBOOK](https://colab.research.google.com/drive/1duxii7OYk2KtygHFxAhjOkR6zYFCLkVh?usp=sharing) |
+| 🌐 **Live Website** | (https://hr-insight-ai-two.vercel.app/) |
+| 💻 **Frontend Repository** | (https://github.com/Sneha8126/hr-insight-frontend) |
+| ⚙️ **Backend Repository** | (https://github.com/Sneha8126/hr-insight-backend) |
+| 📂 **ML Notebook** | (https://colab.research.google.com/drive/1duxii7OYk2KtygHFxAhjOkR6zYFCLkVh?usp=sharing) |
 
 </div>
 
@@ -867,19 +834,6 @@ Contributions are always welcome! 🎉
 
 > [!TIP]
 > Please make sure to update tests and documentation as appropriate, and follow the existing code style.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License © 2026 Sneha
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files to deal in the Software
-without restriction, subject to the standard MIT License conditions.
-```
 
 ---
 
