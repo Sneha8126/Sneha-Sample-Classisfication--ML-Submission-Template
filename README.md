@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/30575623/README.1.md)
 <div align="center">
 
 # 🧠 Employee Attrition Prediction System
@@ -26,7 +25,7 @@
 
 <br/>
 
-[🌐 Live Demo](https://YOUR-LIVE-LINK) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend](https://YOUR-FRONTEND-REPOSITORY) • [⚙️ Backend](https://YOUR-BACKEND-REPOSITORY) • [📹 Demo Video](https://YOUR-DEMO-VIDEO)
+[🌐 Live Demo](https://YOUR-LIVE-LINK) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend](https://YOUR-FRONTEND-REPOSITORY) • [⚙️ Backend](https://YOUR-BACKEND-REPOSITORY) 
 
 </div>
 
