@@ -890,10 +890,6 @@ without restriction, subject to the standard MIT License conditions.
 ### **Sneha**
 *CSE — Branch C | Machine Learning Enthusiast*
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-
 <br/>
 
 ⭐ **If you found this project helpful, consider giving it a star!** ⭐
