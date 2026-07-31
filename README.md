@@ -25,7 +25,7 @@
 
 <br/>
 
-[🌐 Live Demo](https://YOUR-LIVE-LINK) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend](https://YOUR-FRONTEND-REPOSITORY) • [⚙️ Backend](https://YOUR-BACKEND-REPOSITORY) 
+[🌐 Live Demo](https://YOUR-LIVE-LINK) • [📂 Notebook](https://YOUR-NOTEBOOK) • [💻 Frontend]([https://github.com/Sneha8126/hr-insight-frontend]) • [⚙️ Backend](https://github.com/Sneha8126/hr-insight-backend) 
 
 </div>
 
@@ -581,53 +581,6 @@ jupyter notebook
 5. Enter employee attributes in the prediction form to get a **Stay / Leave** prediction with a confidence score.
 
 ---
-
-## 🖥️ Backend Setup
-
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python app.py
-```
-
-The backend server will start at:
-
-```
-http://localhost:5000
-```
-
-**Responsibilities:**
-- Loads the trained model, scaler, and feature schema
-- Preprocesses incoming requests identically to training-time preprocessing
-- Serves predictions via a REST API
-- Handles validation & error responses
-
----
-
-## 🎨 Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-The frontend will be available at:
-
-```
-http://localhost:3000
-```
-
-**Responsibilities:**
-- Collects employee information via an interactive form
-- Sends requests to the backend `/predict` endpoint
-- Displays prediction results with visual risk indicators
-- Presents model performance dashboards (accuracy, confusion matrix, feature importance)
-
----
-
 ## 🔌 API Endpoints
 
 | Method | Endpoint | Description |
